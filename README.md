@@ -1,0 +1,2 @@
+# raytracingcamp5-exercises
+imagirelab/raytracingcamp5の演習環境をDockerとJupyterで作る
